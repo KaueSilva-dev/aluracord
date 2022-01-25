@@ -1,0 +1,29 @@
+{
+  "name": "aluracord",
+  "version": "1.0.0",
+  "description": "projeto da imersão alura de react js.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaw90/aluracord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaw90/aluracord/issues"
+  },
+  "homepage": "https://github.com/kaw90/aluracord#readme",
+  "dependencies": {
+    "@skynexui/components": "^1.23.7",
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
